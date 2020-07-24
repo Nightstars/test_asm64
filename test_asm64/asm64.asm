@@ -1,0 +1,6 @@
+.CODE
+Asm64 PROC
+		MOV EAX, 1111  ;
+		RET
+Asm64 ENDP
+END
